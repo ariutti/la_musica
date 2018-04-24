@@ -15,7 +15,7 @@ int velocity = 0;
 // SETUP /////////////////////////////////////////////////
 void setup() 
 {
-  Serial.println(9600);
+  Serial.begin(9600);
   pinMode(SWITCH, INPUT);
   pinMode(FORK, INPUT);
   firstTime = millis();
