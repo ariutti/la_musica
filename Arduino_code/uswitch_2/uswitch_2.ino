@@ -2,7 +2,7 @@
 #define FORK 2
 
 // we assume the key is at rest 
-//when we start the sketch
+// when we start the sketch
 bool status1, prevStatus1 = true; //inverse logic
 bool status2, prevStatus2 = true;
 
