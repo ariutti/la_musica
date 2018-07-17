@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="schematico_v2.svg"
-   inkscape:export-filename="/home/nicola/Documenti/repos/la_musica/docs/schematics/2018_05_11_schematico.png"
+   inkscape:export-filename="/home/nicola/Documenti/repos/la_musica/docs/schematics/2018_05_24_schematico.png"
    inkscape:export-xdpi="165.41405"
    inkscape:export-ydpi="165.41405">
   <defs
@@ -1830,11 +1830,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="628.24715"
-     inkscape:cy="752.43644"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="594.13563"
+     inkscape:cy="458.16516"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1878,7 +1878,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2000,7 +2000,7 @@
          x="1028.2903"
          y="216.30673"
          id="tspan5042"
-         style="fill:#000000;fill-opacity:1;stroke:none">v11/05/2018</tspan></text>
+         style="fill:#000000;fill-opacity:1;stroke:none">v24/05/2018</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 877.6629,341.68167 c 182.4041,-81.34872 107.26503,81.43953 260.8867,-18.40008"
@@ -2686,7 +2686,7 @@
            y="291.22098"
            x="450.51031"
            sodipodi:role="line"
-           id="tspan5223">4x DotStar LED strip</tspan></text>
+           id="tspan5223">12x DotStar LED strip</tspan></text>
       <rect
          y="300.31323"
          x="412.43414"
@@ -2703,13 +2703,13 @@
       <circle
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle5229"
-         cx="512.79126"
+         cx="496.79126"
          cy="330.67038"
          r="11.071428" />
       <circle
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle5233"
-         cx="570.79126"
+         cx="582.79126"
          cy="330.67038"
          r="11.071428" />
       <circle
@@ -2755,6 +2755,18 @@
            id="tspan13461"
            x="460.2912"
            y="293.88467" /></text>
+      <text
+         sodipodi:linespacing="100%"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:100%;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="524.51031"
+         y="331.22098"
+         id="text3769"><tspan
+           id="tspan3771"
+           sodipodi:role="line"
+           x="524.51031"
+           y="331.22098"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Courier;-inkscape-font-specification:Courier">...</tspan></text>
     </g>
     <text
        id="text5452"
@@ -2766,7 +2778,7 @@
          y="588.71741"
          x="637.05286"
          sodipodi:role="line"
-         id="tspan5454">to 5V 3A external power supply</tspan></text>
+         id="tspan5454">to 5V 10A external power supply</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
        d="m 346.00555,494.89754 0,176.41571"
@@ -2788,7 +2800,7 @@
          x="838.25677"
          y="486.25211"
          style="font-size:15px"
-         id="tspan5523">4 LED x 10 keys = 2,5A approx.</tspan><tspan
+         id="tspan5523">12 LED x 10 keys = 7,2A approx.</tspan><tspan
          sodipodi:role="line"
          x="838.25677"
          y="505.00211"
