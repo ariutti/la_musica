@@ -46,7 +46,7 @@ Adafruit_DotStar strip = Adafruit_DotStar(NUMPIXELS, DATAPIN, CLOCKPIN, DOTSTAR_
 const int FADEIN_TIME = 250;
 const int FADEOUT_TIME = 100;
 // the following is a factor to correct the overall brightness
-const float AMPLITUDE = 0.2;
+const float AMPLITUDE = 0.7;
 
 struct ledblock 
 {
